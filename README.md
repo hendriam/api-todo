@@ -1,3 +1,5 @@
 # This API for Todo App
 
-This project [todo-app](https://github.com/facebook/create-react-app) was created with reactjs & tailwind
+This project was created with Nodejs.
+
+For Todo app this [link](https://github.com/hendriam/todo-app-with-reactjs.git)
